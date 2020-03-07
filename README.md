@@ -5,6 +5,7 @@ Skills/Technologies Used: Augmented Reality, C#
 
 # How to use :
 - Download and install the 'Love.apk' file from the link  :
+
   https://github.com/shikherpant/AR-Greeting-Card/releases/download/1.0/Love.apk
 - Scan the 'ScanImage.jpg' Folder present inside 'ImageTarget' folder.
 
