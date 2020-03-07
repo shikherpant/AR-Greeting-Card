@@ -1,6 +1,7 @@
 # AR-Greeting-Card
 AR Greeting Card is a fun android application for sending beautiful greetings to your loved one.
-Skills/Technologies Used: Augmented Reality,C#
+
+Skills/Technologies Used: Augmented Reality, C#
 
 # How to use :
 - Download and install the 'Love.apk' file from the link  :
